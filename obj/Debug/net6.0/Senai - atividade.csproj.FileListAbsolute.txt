@@ -1,0 +1,15 @@
+C:\Users\ALUNO\Desktop\Senai - atividade\bin\Debug\net6.0\Senai - atividade.exe
+C:\Users\ALUNO\Desktop\Senai - atividade\bin\Debug\net6.0\Senai - atividade.deps.json
+C:\Users\ALUNO\Desktop\Senai - atividade\bin\Debug\net6.0\Senai - atividade.runtimeconfig.json
+C:\Users\ALUNO\Desktop\Senai - atividade\bin\Debug\net6.0\Senai - atividade.dll
+C:\Users\ALUNO\Desktop\Senai - atividade\bin\Debug\net6.0\Senai - atividade.pdb
+C:\Users\ALUNO\Desktop\Senai - atividade\obj\Debug\net6.0\Senai - atividade.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Desktop\Senai - atividade\obj\Debug\net6.0\Senai - atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Desktop\Senai - atividade\obj\Debug\net6.0\Senai - atividade.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Desktop\Senai - atividade\obj\Debug\net6.0\Senai - atividade.AssemblyInfo.cs
+C:\Users\ALUNO\Desktop\Senai - atividade\obj\Debug\net6.0\Senai - atividade.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\Senai - atividade\obj\Debug\net6.0\Senai - atividade.dll
+C:\Users\ALUNO\Desktop\Senai - atividade\obj\Debug\net6.0\refint\Senai - atividade.dll
+C:\Users\ALUNO\Desktop\Senai - atividade\obj\Debug\net6.0\Senai - atividade.pdb
+C:\Users\ALUNO\Desktop\Senai - atividade\obj\Debug\net6.0\Senai - atividade.genruntimeconfig.cache
+C:\Users\ALUNO\Desktop\Senai - atividade\obj\Debug\net6.0\ref\Senai - atividade.dll
